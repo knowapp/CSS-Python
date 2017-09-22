@@ -1,0 +1,100 @@
+html {
+  background-color: #2c6291;
+  font-family: 'Open Sans', sans-serif;
+  /*text-align: center;*/
+}
+div#header {
+  /*border:2px solid white;*/
+  width:970px;
+  height:0px;
+  margin: 0px 0px 0px 400px;
+  /*background-color: white;*/
+}
+div#header-top {
+  /*border:2px solid white;*/
+  width:300px;
+  height:0px;
+  margin: 0px 0px 0px 0px;
+  /*background-color: white;*/
+}
+/*
+REMOVE FROM HERE 
+*/
+.menudown{
+  margin: 0 auto;
+  padding: 30px;
+  align: center;
+}
+.horizontal-nav {
+ /* background: #efefef;*/
+  border-radius: 6px;
+  
+}
+.horizontal-nav ul {
+  background: #128F9A;
+  display: inline-block;
+  text-align: center;
+  border-radius: 6px;
+  border: 1px solid #0e7079;
+s
+}
+.horizontal-nav ul li {
+  display: inline-block;
+  border-left: 1px solid #0e7079;
+}
+.horizontal-nav ul li:first-child {
+  border-left: 0 none;
+}
+.horizontal-nav ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  border-top: 1px solid rgba(255,255,255, 0.25);
+  border-left: 1px solid rgba(255,255,255, 0.25);
+}
+.horizontal-nav ul li:first-child a {
+  border-left: 0 none;
+}
+.horizontal-nav ul li a:hover {
+  /*background: #12808a;*/
+}
+.horizontal-nav ul li:first-child a {
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+.horizontal-nav ul li:last-child a {
+  border-top-right-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+/*
+to HERE 
+*/
+div#page {
+  border:1px solid purple;
+  width:970px;
+  margin:0px 0px 0px 0px;
+/*text-align:left;*/
+/*position:relative*/
+}
+div {
+  text-align:center;
+}
+.container{
+  margin: 10px 0px 0px 0px;
+}
+.links{
+  color: white;
+  font-size: small;
+}
+.paragraph{
+  color: white;
+  font-size: x-small;
+  text-decoration: none;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    e;
+  text-decoration-color: white; 
+}
+.quote{
+color: yellow;
+font-size: 20px;
+text-decoration: none;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    e;
+text-decoration-color: white;
+}
